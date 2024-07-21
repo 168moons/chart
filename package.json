@@ -1,0 +1,12 @@
+{
+  "name": "168moons",
+  "version": "1.0.1",
+  "description": "168moons charts",
+  "main": "index.js", 
+  "author": "",
+  "license": "ISC",
+   "files": [
+    "img/404.jpg",
+    "img/1500x500.jpg"
+  ]
+}
